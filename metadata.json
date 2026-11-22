@@ -1,0 +1,6 @@
+{
+  "name": "CYBERNEX – Beyond Human Intelligence",
+  "description": "Where artificial intelligence meets human evolution. Explore futuristic neural interfaces, robotic engineering, and human augmentation concepts.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
