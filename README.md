@@ -70,7 +70,7 @@ Follow these steps to run the project locally.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/cyber­nex.git
+git clone https://github.com/Gbsvani-10/cyborg-landing-page.git
 ```
 
 ### 2. Navigate to the project folder
